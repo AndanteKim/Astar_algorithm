@@ -7,4 +7,4 @@ How to run and see how it works?
 2. Open project_notebook.ipynb and run cells from the beginning to end.
 
 ## Update (2024-08-18)
-You could see also its derived application named route planner with C++. ({https://github.com/AndanteKim/CppND-Route-Planning-Project})
+You could see also its derived application named route planner with C++. (https://github.com/AndanteKim/CppND-Route-Planning-Project)
